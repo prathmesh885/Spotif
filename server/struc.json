@@ -1,0 +1,9 @@
+{
+    "top10Song": {
+        "artwork": "songImage",
+        "Song": "song",
+        "DateOfRelease": "Song",
+        "Artists": "",
+        "Rate": ""
+    }
+}
